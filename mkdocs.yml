@@ -23,7 +23,6 @@ nav:
     - Contributors: contributors.md
     - License: LICENSE.md
     - Troubleshooting: troubleshooting/README.md
-    - Workshop: workshop/README.md
 
 theme:
   name: material
