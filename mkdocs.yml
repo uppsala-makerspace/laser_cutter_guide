@@ -7,7 +7,6 @@ nav:
   - Home: index.md
   - Steps:
     - Intro: steps/intro.md
-    - 1. Start ventilation: steps/1_start_ventilation.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
