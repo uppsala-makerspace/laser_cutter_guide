@@ -7,12 +7,11 @@ tags:
 
 Awesome that you are reading this!
 
-The goal of this repository is to show how to use the Vevor
-vinyl cutter to create a T-shirt.
+The goal of this repository is to show how to use the laser cutter.
 Suggestions are welcomed that help achieve this goal,
 with a preference to accept suggestions.
 
-- For questions, you can [create an issue](https://github.com/uppsala-makerspace/vevor_vinyl_cutter_to_t_shirt_manual/issues)
+- For questions, you can [create an issue](https://github.com/uppsala-makerspace/laser_cutter_guide/issues)
 - Textual changes go via pull requests.
   Whatever these are, these are created when clicking the 'Edit page' icon
   located at the top-right of each page.
