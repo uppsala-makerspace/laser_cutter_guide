@@ -20,6 +20,7 @@ nav:
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
+    - Contributors: contributors.md
     - License: LICENSE.md
     - Troubleshooting: troubleshooting/README.md
     - Workshop: workshop/README.md
