@@ -1,4 +1,4 @@
-# laser_cutter
+# laser_cutter_guide
 
 ```
 Image of our laser cutter
@@ -6,10 +6,10 @@ Image of our laser cutter
 
 Manual for using the lasser cuter:
 
-- [Website friendly](https://uppsala-makerspace.github.io/laser_cutter/)
+- [Website friendly](https://uppsala-makerspace.github.io/laser_cutter_guide/)
 - Printer friendly: TODO
 
-[Contributions are welcome](https://uppsala-makerspace.github.io/laser_cutter/CONTRIBUTING/)!
+[Contributions are welcome](https://uppsala-makerspace.github.io/laser_cutter_guide/CONTRIBUTING/)!
 
 ## Files used by continuous integration scripts
 
