@@ -5,8 +5,6 @@ edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
-  - Safety:
-    - Procedure when starting the laser: safety_procedure.md
   - Steps:
     - Intro: steps/intro.md
     - 1. Start ventilation: steps/1_start_ventilation.md
