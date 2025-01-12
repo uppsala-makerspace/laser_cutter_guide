@@ -1,5 +1,7 @@
 ---
 tags:
+  - procedure
+  - step
   - set
   - get
   - material

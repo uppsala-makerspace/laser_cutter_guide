@@ -1,5 +1,6 @@
 ---
 tags:
+  - procedure
   - step
   - position
   - place

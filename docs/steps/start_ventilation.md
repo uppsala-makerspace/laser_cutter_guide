@@ -1,5 +1,6 @@
 ---
 tags:
+  - procedure
   - step
   - start
   - ventilation

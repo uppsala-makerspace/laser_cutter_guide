@@ -1,5 +1,6 @@
 ---
 tags:
+  - procedure
   - step
   - laser
   - start

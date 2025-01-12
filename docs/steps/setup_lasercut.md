@@ -1,5 +1,6 @@
 ---
 tags:
+  - procedure
   - step
   - set up
   - setup

@@ -1,7 +1,7 @@
 ---
 tags:
-  - intro
-  - introduction
+  - procedure
+  - step
   - overview
 ---
 
