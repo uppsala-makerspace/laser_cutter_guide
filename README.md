@@ -1,6 +1,6 @@
 # laser_cutter_guide
 
-```
+```text
 Image of our laser cutter
 ```
 
