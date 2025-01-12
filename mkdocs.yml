@@ -6,7 +6,7 @@ edit_uri: blob/main/docs/
 nav:
   - Home: index.md
   - Procedure:
-    - Overview: steps/overview.md
+    - Overview: steps/README.md
     - Start ventilation: start_ventilation.md
     - Get material: get_material.md
     - Setup laser: setup_laser.md
@@ -14,6 +14,7 @@ nav:
     - Setup LaserCut: setup_lasercut.md
     - Start laser: start_laser.md
   - Lessons:
+    - Overview: lessons/README.md
     - 1. Laser safety: lessons/1_laser_safety.md
     - 2. Fire safety: lessons/2_fire_safety.md
     - 3. Your first cut: lessons/3_your_first_cut.md
