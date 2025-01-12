@@ -9,5 +9,5 @@ tags:
 # 1. Laser safety
 
 
-- Practice the procudure without actually pressing 'Start'
+- Practice the procedure without actually pressing 'Start'
 - Practice with assistant saying stop

@@ -4,7 +4,7 @@
 Image of our laser cutter
 ```
 
-Manual for using the lasser cuter:
+Manual for using the laser cuter:
 
 - [Website friendly](https://uppsala-makerspace.github.io/laser_cutter_guide/)
 - Printer friendly: TODO
