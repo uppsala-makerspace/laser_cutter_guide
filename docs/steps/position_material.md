@@ -9,8 +9,8 @@ tags:
 
 # Position material
 
-Use the marker function in LaserCut, as well as
-'Show frame'.
+Use the marker function in Lightburn, as well as
+'Frame'.
 
 This is safe!
 
