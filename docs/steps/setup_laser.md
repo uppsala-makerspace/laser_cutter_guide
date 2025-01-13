@@ -15,10 +15,10 @@ Put the material in the enclosure.
 Picture of material in the enclosure
 ```
 
-Move the laser to the material, by clicking in LaserCut
+Move the laser to the material, by clicking in Lightburn
 
 ```text
-Image of LaserCut and where to click
+Image of Lightburn and where to click
 ```
 
 ```text
