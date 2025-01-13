@@ -15,6 +15,7 @@ Material that is safe:
 
 - Paper
 - Unpainted wood
+- Leather
 - [more]
 
 Material that is unsafe:
