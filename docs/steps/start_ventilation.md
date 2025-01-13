@@ -34,6 +34,10 @@ Go to the ventilation timer
 
 > The ventilation timer
 
+![The ventilation timer and its label](ventilation_timer_label.jpg)
+
+> The label on the ventilation timer
+
 Press the button of the right duration on the ventilation timer:
 
 - 15M: 15 minutes

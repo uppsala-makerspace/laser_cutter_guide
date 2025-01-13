@@ -1,8 +1,8 @@
 # Laser cutter manual
 
-```text
-Picture of our laser cutter
-```
+![Desk with the laser cutter](steps/laser_desk.jpg)
 
-Manual for using the Laser cutter
+> Desk with the laser cutter
+
+Manual for using the laser cutter
 
