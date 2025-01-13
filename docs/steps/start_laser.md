@@ -34,7 +34,7 @@ The goal of this step is to check if the air flow is on.
 Go?   |Check          |Image
 ------|---------------|-----------------------------------------------------
 Yes   |Air flow is on |![Air flow is on](laser_cutter_air_indicator_on.jpg)
-No    |Air flow is off|![Air flow is off](laser_cutter_air_indicator_on.jpg)
+No    |Air flow is off|![Air flow is off](laser_cutter_air_indicator_off.jpg)
 
 ### Step 2: Check goggles of yourself
 
