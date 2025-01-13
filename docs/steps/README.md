@@ -8,9 +8,9 @@ tags:
 # Overview
 
 - Turn on everything
-  - [Start ventilation](start_ventilation.md)
-  - Start laser
-  - Start computer
+    - [Start ventilation](start_ventilation.md)
+    - Start laser
+    - Start computer
 - Login
 - Start LaserCut
 - [Get material](get_material.md)
