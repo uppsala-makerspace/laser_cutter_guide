@@ -15,9 +15,10 @@ nav:
     - Start laser: start_laser.md
   - Lessons:
     - Overview: lessons/README.md
-    - 1. Laser safety: lessons/1_laser_safety.md
-    - 2. Fire safety: lessons/2_fire_safety.md
-    - 3. Your first cut: lessons/3_your_first_cut.md
+    - 1. Be a good controller: lessons/1_be_a_good_controller.md
+    - 1. Laser safety: lessons/11_laser_safety.md
+    - 2. Fire safety: lessons/12_fire_safety.md
+    - 3. Your first cut: lessons/23_your_first_cut.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
