@@ -10,8 +10,7 @@ tags:
 - Turn on everything
     - [Start ventilation](start_ventilation.md)
     - [Power on the laser cutter](power_on_laser_cutter.md)
-    - Start computer
-- Login
+    - [Start computer](start_computer.md)
 - Start LaserCut
 - [Get material](get_material.md)
 - [Setup laser](setup_laser.md)
