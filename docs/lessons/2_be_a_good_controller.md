@@ -72,12 +72,12 @@ All the operator says is 'Laser is on'.
 Do the following 5 times:
 
 - A certified operator tells the controller secretly to:
-  - Do the right thing
-  - Put off glasses
+    - Do the right thing
+    - Put off glasses
 - A certified operator tells the operator secretly to:
-  - Do the right thing
-  - Put off glasses
-  - Turn off the air flow
+    - Do the right thing
+    - Put off glasses
+    - Turn off the air flow
 - Do the procedure
 - If the laser is turned on when it should not,
   the exam is failed
