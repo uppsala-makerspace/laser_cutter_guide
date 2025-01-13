@@ -10,23 +10,36 @@ tags:
 
 In the woodshop, press the button to turn on the ventilation.
 
-Go to the woodshop here:
+Go through the door of the woodshop:
 
-```text
-map of UMS, with location indicated
-```
+![Door to the woodshop](door_to_woodshop)
 
-Go to this thing with buttons:
+> The door to the woodshop
 
-```text
-picture of the thing with buttons in the wall
-```
+Go to the back of the woodshop
 
-Press any of these buttons:
+![Woodshop](woodshop.jpg)
 
-```text
-close-up of the thing with buttons
-```
+> The woodshop
+
+At the backside of the woodshop, find the timer.
+
+![The backside of the woodshop](backside_woodshop.jpg)
+
+> The backside of the woodshop
+
+Go to the ventilation timer
+
+![The ventilation timer](ventilation_timer.jpg)
+
+> The ventilation timer
+
+Press the button of the right duration on the ventilation timer:
+
+- 15M: 15 minutes
+- 2H: 2 hours
+
+![The button on the ventilation timer](ventilation_timer_buttons.jpg)
 
 You should hear a noise start.
 This is a compressor that will suck out the air from the laser cutter's
