@@ -8,6 +8,9 @@ tags:
 
 # Setup LaserCut
 
+- ensure line Mode
+
 - Air on
 - Speed
 - Power
+- Pass count
