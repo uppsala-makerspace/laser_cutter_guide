@@ -52,5 +52,5 @@ Now the ventilation timer is on.
 > The ventilation timer is on
 
 You should hear a noise start.
-This is a compressor that will suck out the air from the laser cutter's
+This is a fan that will suck out the air from the laser cutter's
 enclosure.
