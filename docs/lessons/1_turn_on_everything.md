@@ -13,6 +13,15 @@ To use the laser, one needs to turn on:
 - The ventilation
 - The computer
 
+You can read those steps in [the procedure](../steps/README.md).
+
+## Exercise 1: practice
+
+Read the steps in [the procedure](../steps/README.md)
+to turn on everything.
+
+Do so.
+
 ## Exam
 
 Preparation:
