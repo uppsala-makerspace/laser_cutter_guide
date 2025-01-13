@@ -1,4 +1,4 @@
-# laser_cutter_guide
+# Laser_cutter_guide
 
 ```text
 Image of our laser cutter
