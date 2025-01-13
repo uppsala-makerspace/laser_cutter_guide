@@ -9,7 +9,7 @@ tags:
 
 - Turn on everything
     - [Start ventilation](start_ventilation.md)
-    - Start laser
+    - [Power on the laser cutter](power_on_laser_cutter.md)
     - Start computer
 - Login
 - Start LaserCut

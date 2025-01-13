@@ -8,6 +8,7 @@ nav:
   - Procedure:
     - Overview: steps/README.md
     - Start ventilation: start_ventilation.md
+    - Power on the laser cutter: power_on_laser_cutter.md
     - Get material: get_material.md
     - Setup laser: setup_laser.md
     - Position material: position_material.md
