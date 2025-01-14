@@ -22,3 +22,7 @@ Material that is safe:
 Material that is unsafe:
 
 - [list here]
+
+Tips:
+
+- K-Rauta sells cheap wood

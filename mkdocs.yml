@@ -9,7 +9,8 @@ nav:
     - Overview: steps/README.md
     - Start ventilation: steps/start_ventilation.md
     - Power on the laser cutter: steps/power_on_laser_cutter.md
-    - Start compiter: steps/start_computer.md
+    - Start computer: steps/start_computer.md
+    - Start LightBurn: steps/start_lightburn.md
     - Get material: steps/get_material.md
     - Setup laser: steps/setup_laser.md
     - Position material: steps/position_material.md

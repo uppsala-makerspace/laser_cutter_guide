@@ -9,54 +9,57 @@ tags:
 
 We need to set up the laser.
 
-Put the material in the enclosure.
+## Setup the COM port
 
-```text
-Picture of material in the enclosure
-```
 
-Move the laser to the material, by clicking in Lightburn
-
-```text
-Image of Lightburn and where to click
-```
-
-```text
-Image of the inside of the enclosure, with laser above the material
-```
+## Setup the height
 
 Take the spacer from the bottom-left of the enclosure.
 
-```text
-Picture of spacer in bottom-left of enclosure
-```
+The spacer's proper place is at the front-left of the enclosure.
+![The spacer in its proper place](spacer_in_its_proper_place.jpg)
 
-Place the spacer under the laser
+> The spacer in its proper place
 
-```text
-Picture of spacer under laser
-```
+Take the spacer from its proper place.
 
-Loosen up the laser
+![Take the spacer from its proper place.](taking_the_spacer.jpg)
 
-```text
-Picture of where to loosen the laser, including counterclockwise direction around the screw
-```
+> Take the spacer from its proper place.
 
-Make the laser rest on the spacer
+Place the spacer between laser and material
 
-```text
-Picture of the laser resting on the spacer
-```
+![Place the spacer between laser and material](placing_the_spacer_under_the_laser.jpg)
 
-Tighten the laser again.
+> Place the spacer between laser and material
 
-```text
-Picture of someone tightening the laser, including clockwise direction around the screw
-```
+Loosen up the laser so it can slide up and down,
+by unscrewing it a bit.
+
+![Loosen up the laser by unscrewing it a bit](unscrewing_the_laser_above_the_spacer.jpg)
+
+> Loosen up the laser by unscrewing it a bit
+
+Slide the laser down, so it rests on the spacer.
+
+![Slide the laser down, so it rests on the spacer](resting_the_laser_on_the_spacer.jpg)
+
+> Slide the laser down, so it rests on the spacer.
+
+Tighten up the laser again by turning its screw.
+
+![Tighten up the laser again by turning its screw](unscrewing_the_laser_above_the_spacer.jpg)
+
+> Tighten up the laser again by turning its screw
+
+Remove the spacer
+
+![removing_the_spacer_from_the_laser.jpg](removing_the_spacer_from_the_laser.jpg)
+
+> Remove the spacer
 
 Place the spacer back in its original spot
 
-```text
-Picture of spacer back in its spot
-```
+![Place the spacer back in its proper place](putting_back_the_spacer.jpg)
+
+> Place the spacer back in its proper place
