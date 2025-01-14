@@ -25,3 +25,9 @@ The power of the laser cutter is on.
 ![The power of the laser cutter is on](laser_cutter_power_on.jpg)
 
 > The power of the laser cutter is on
+
+The air indicator should turn on too.
+
+![The air indicator should turn on too](laser_cutter_air_indicator_on.jpg)
+
+> The air indicator should turn on too
