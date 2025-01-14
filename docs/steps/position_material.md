@@ -14,7 +14,6 @@ Put the material in the enclosure.
 ## Setup the height of the laser
 
 
-
 ## Setup the frame of the cut
 
 ```text

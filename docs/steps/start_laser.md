@@ -85,7 +85,7 @@ Use your other hand to move the mouse cursor to 'Stop'.
 
 Repeatedly say 'All is well' when all is well.
 
-If a fire starts or someone says 'Stop', click on stop. Laser is safe after stop 
+If a fire starts or someone says 'Stop', click on stop. Laser is safe after stop
 
 ### Step 9: Say 'Laser is off'
 
