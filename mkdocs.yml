@@ -15,7 +15,7 @@ nav:
     - Setup laser in LightBurn: steps/setup_laser_in_lightburn.md
     - Position material: steps/position_material.md
     - Setup laser physically: steps/setup_laser_in_lightburn.md
-    - Setup LaserCut: steps/setup_lasercut.md
+    - Setup LightBurn: steps/setup_lightburn.md
     - Start laser: steps/start_laser.md
   - Lessons:
     - Overview: lessons/README.md
