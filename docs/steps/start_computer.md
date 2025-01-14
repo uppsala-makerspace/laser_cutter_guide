@@ -1,8 +1,8 @@
 ---
 tags:
-  - intro
-  - introduction
-  - overview
+  - step
+  - start
+  - computer
 ---
 
 # Start computer
