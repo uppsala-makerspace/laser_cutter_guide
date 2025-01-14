@@ -17,6 +17,6 @@ tags:
 - [Setup laser physically](setup_laser_physically.md)
 - [Setup laser in LightBurn](setup_laser_in_lightburn.md)
 - Load or create an image
-- [Setup LightBurn](setup_lasercut.md)
+- [Setup LightBurn](setup_lightburn.md)
 - Close enclosure
 - [Start laser](start_laser.md)
