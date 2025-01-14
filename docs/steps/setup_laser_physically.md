@@ -2,17 +2,12 @@
 tags:
   - procedure
   - step
-  - overview
+  - laser
+  - setup
+  - physically
 ---
 
-# Setup laser
-
-We need to set up the laser.
-
-## Setup the COM port
-
-
-## Setup the height
+# Setup laser physically
 
 Take the spacer from the bottom-left of the enclosure.
 

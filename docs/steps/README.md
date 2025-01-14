@@ -14,8 +14,8 @@ tags:
 - [Start LightBurn](start_lightburn.md)
 - [Get material](get_material.md)
 - [Position the material](position_material.md)
-
-- [Setup laser](setup_laser.md)
+- [Setup laser physically](setup_laser_physically.md)
+- [Setup laser in LightBurn](setup_laser_in_lightburn.md)
 - Load or create an image
 - [Setup LightBurn](setup_lasercut.md)
 - Close enclosure

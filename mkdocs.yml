@@ -12,8 +12,9 @@ nav:
     - Start computer: steps/start_computer.md
     - Start LightBurn: steps/start_lightburn.md
     - Get material: steps/get_material.md
-    - Setup laser: steps/setup_laser.md
+    - Setup laser in LightBurn: steps/setup_laser_in_lightburn.md
     - Position material: steps/position_material.md
+    - Setup laser physically: steps/setup_laser_in_lightburn.md
     - Setup LaserCut: steps/setup_lasercut.md
     - Start laser: steps/start_laser.md
   - Lessons:
