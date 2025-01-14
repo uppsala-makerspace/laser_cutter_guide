@@ -20,3 +20,10 @@ woodshop
 wordlist
 www
 yml
+Bilderbeek
+der
+jpg
+LightBurn
+Rauta
+Richèl
+tooltip
