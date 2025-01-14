@@ -24,7 +24,7 @@ Go to the back of the woodshop
 
 At the backside of the woodshop, find the timer.
 
-![The backside of the woodshop](backside_woodshop.jpg)
+![The backside of the woodshop](backside_woodshop_with_arrow.jpg)
 
 > The backside of the woodshop
 
@@ -52,5 +52,5 @@ Now the ventilation timer is on.
 > The ventilation timer is on
 
 You should hear a noise start.
-This is a compressor that will suck out the air from the laser cutter's
+This is a fan that will suck out the air from the laser cutter's
 enclosure.

@@ -34,7 +34,7 @@ The goal of this step is to check if the air flow is on.
 Go?   |Check          |Image
 ------|---------------|-----------------------------------------------------
 Yes   |Air flow is on |![Air flow is on](laser_cutter_air_indicator_on.jpg)
-No    |Air flow is off|![Air flow is off](laser_cutter_air_indicator_on.jpg)
+No    |Air flow is off|![Air flow is off](laser_cutter_air_indicator_off.jpg)
 
 ### Step 2: Check goggles of yourself
 
@@ -72,7 +72,7 @@ If somebody says 'stop', you stop.
 
 ### Step 6: Press start
 
-In LaserCut, press 'Start' to start the laser.
+In Lightburn, press 'Start' to start the laser.
 
 ### Step 7: Say 'Laser is on' and put hand on casing
 
@@ -85,7 +85,7 @@ Use your other hand to move the mouse cursor to 'Stop'.
 
 Repeatedly say 'All is well' when all is well.
 
-If a fire starts or someone says 'Stop', click on stop.
+If a fire starts or someone says 'Stop', click on stop. Laser is safe after stop 
 
 ### Step 9: Say 'Laser is off'
 

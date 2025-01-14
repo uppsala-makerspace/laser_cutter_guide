@@ -13,7 +13,7 @@ To use the laser, two people are needed:
 - Operator: the person that starts the laser
 - Controller: the person that double-checks the operator
 
-Both roles are needed to work with a laser lafely.
+Both roles are needed to work with a laser safely.
 
 In this lesson, we practive being a good controller.
 
@@ -34,7 +34,7 @@ In this lesson, we practive being a good controller.
     8   |Say 'All is well'                              |No fire
     9   |Say 'Laser is off'                             |Laser is on
 
-In this session, we never start the laser.
+**In this session, we never start the laser**.
 All the operator says is 'Laser is on'.
 
 ## Exercise 1: test the operator
