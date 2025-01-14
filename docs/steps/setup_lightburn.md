@@ -6,7 +6,7 @@ tags:
   - setup
 ---
 
-# Setup LaserCut
+# Setup LightBurn
 
 - ensure line Mode
 
