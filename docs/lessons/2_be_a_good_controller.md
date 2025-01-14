@@ -15,7 +15,7 @@ To use the laser, two people are needed:
 
 Both roles are needed to work with a laser safely.
 
-In this lesson, we practive being a good controller.
+In this lesson, we practice being a good controller.
 
 - Find an operator to use the laser
 - Read the procedure for the operator
