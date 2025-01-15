@@ -72,7 +72,7 @@ If somebody says 'stop', you stop.
 
 ### Step 6: Press start
 
-In Lightburn, press 'Start' to start the laser.
+In LightBurn, press 'Start' to start the laser.
 
 ### Step 7: Say 'Laser is on' and put hand on casing
 
