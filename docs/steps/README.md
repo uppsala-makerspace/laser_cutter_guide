@@ -19,3 +19,6 @@ tags:
 - [Setup LightBurn](setup_lightburn.md)
 - Close enclosure
 - [Start laser](start_laser.md)
+- Turn off laser
+- Turn off computer
+- Turn off ventilation
