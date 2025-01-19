@@ -31,7 +31,7 @@ You will be responsible for extinguishing the fire!
 
 The first exercise is a dry run of what needs to be done:
 
-- Do the reglar safety procedure
+- Do the regular safety procedure
 - The operator says: 'laser started'
 - The operator says: 'fire'
 - The operator opens the enclosure

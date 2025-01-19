@@ -31,7 +31,7 @@ Observe the message 'Waiting for connection' at the top-right
 If you need to wait for this connection longer than 3 seconds, The Dance
 continues.
 
-If The Dance needs to be coninued, click `COM4`
+If The Dance needs to be continued, click `COM4`
 
 ![Select `COM4`](lightburn_com4.png)
 
@@ -42,7 +42,7 @@ Observe the message 'Waiting for connection' at the top-right
 If you need to wait for this connection longer than 3 seconds, The Dance
 continues.
 
-If The Dance needs to be coninued, click `COM6`
+If The Dance needs to be continued, click `COM6`
 
 ![Select `COM6`](lightburn_com6.png)
 

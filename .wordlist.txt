@@ -27,3 +27,5 @@ LightBurn
 Rauta
 Richèl
 tooltip
+acryl
+ok
