@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+
+build_folder=build
+
+rm -rf build
+mkdir build
+
+if [ ! -d $build_folder ]; then 
+  echo "Error: failed to create build folder"
+  exit 1
+fi
+
+cp ../lessons/*.* $build_folder
+
+cat ../lessons/1_turn_everything_on_and_off.md > $build_folder/README.md
+cat ../lessons/2_be_a_good_controller.md >> $build_folder/README.md
+cat ../lessons/3_prepare_cutting.md >> $build_folder/README.md
+cat ../lessons/4_extinguish_fire_as_controller.md >> $build_folder/README.md
+cat ../lessons/5_your_first_cut_as_controller.md >> $build_folder/README.md
+cat ../lessons/6_be_a_good_operator.md >> $build_folder/README.md
+cat ../lessons/7_extinguish_fire_as_operator.md >> $build_folder/README.md
+cat ../lessons/8_your_first_cut_as_operator.md >> $build_folder/README.md
+cat ../lessons/9_certification.md >> $build_folder/README.md
+
+cp guide_style.theme $build_folder
+
+cd "${build_folder}" || exit 41
+
+# Table of Content
+# Code has highlights following the tango color scheme
+# Thinner margin of 0.5 inch
+# Do not cut code blocks
+pandoc README.md -o book.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
+
+cp book.pdf ../../pdfs/book_without_cover.pdf
+
+cd ../../pdfs || exit 42
+pdfunite cover.pdf book_without_cover.pdf book.pdf
+
+# Make booklet
+bookletimposer -a book.pdf -o booklet.pdf
+
+# Cleanup
+rm book_without_cover.pdf
