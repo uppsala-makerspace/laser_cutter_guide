@@ -82,16 +82,13 @@ cp guide_style.theme $build_folder
 
 cd "${build_folder}" || exit 41
 
-#
-# We are in the 'scripts/build' folder
-#
-
 # Table of Content
 # Code has highlights following the tango color scheme
 # Thinner margin of 0.5 inch
 # Do not cut code blocks
-
-
+#
+# We are in the 'scripts/build' folder
+#
 pandoc README.md -o book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
 
 cp book_without_cover.pdf ../../pdfs/book_without_cover.pdf
