@@ -22,14 +22,14 @@ nav:
     - Turn off laser: steps/turn_off_laser.md
     - Turn off computer: steps/turn_off_computer.md
     - Turn off ventilation: steps/turn_off_ventilation.md
-
   - Lessons:
     - Overview: lessons/README.md
-    - 1. Turn on everything: lessons/1_turn_on_everything.md
+    - 1. Turn everything on and off: lessons/1_turn_everything_on_and_off.md
     - 2. Be a good controller: lessons/2_be_a_good_controller.md
-    - 1. Laser safety: lessons/11_laser_safety.md
-    - 2. Fire safety: lessons/12_fire_safety.md
-    - 3. Your first cut: lessons/23_your_first_cut.md
+    - 3. Prepare for cutting: lessons/3_prepare_cutting.md
+    - 4. Be a good operator: lessons/4_be_a_good_operator.md
+    - 5. Extinguish fire: lessons/5_extinguish_fire.md
+    - 6  Your first cut: lessons/6_your_first_cut.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
