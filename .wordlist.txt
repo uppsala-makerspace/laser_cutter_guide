@@ -29,3 +29,14 @@ Richèl
 tooltip
 acryl
 ok
+documentclass
+extarticle
+fontsize
+github
+Licence
+licence
+Makerspace
+makerspace
+pdf
+Uppsala
+uppsala

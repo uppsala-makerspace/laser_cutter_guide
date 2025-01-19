@@ -3,7 +3,7 @@ documentclass: extarticle
 fontsize: 14pt
 ---
 
-# Forword
+# Foreword
 
 This is a book about using the laser cutter at the Uppsala Makerspace.
 
@@ -17,7 +17,7 @@ This book has a CC-BY-NC-SA licence.
 
 You can do whatever you like with this book,
 as long as you give proper credit to us
-and/or mention the website 
+and/or mention the website
 [https://github.com/uppsala-makerspace/laser_cutter_guide](https://github.com/uppsala-makerspace/laser_cutter_guide).
 
 This guide will always be free (as in beer) and free (as in freedom).
