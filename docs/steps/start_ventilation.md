@@ -30,7 +30,7 @@ At the backside of the woodshop, find the timer.
 
 Go to the ventilation timer
 
-![The ventilation timer](ventilation_timer.jpg)
+![The ventilation timer](ventilation_timer_right_side_up.jpg)
 
 > The ventilation timer
 
