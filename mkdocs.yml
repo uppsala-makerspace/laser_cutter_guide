@@ -17,6 +17,7 @@ nav:
     - Setup laser physically: steps/setup_laser_in_lightburn.md
     - Setup LightBurn: steps/setup_lightburn.md
     - Start laser: steps/start_laser.md
+    - Turn off laser: steps/turn_off_laser.md
   - Lessons:
     - Overview: lessons/README.md
     - 1. Turn on everything: lessons/1_turn_on_everything.md
