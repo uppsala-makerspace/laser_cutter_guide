@@ -23,14 +23,59 @@ fi
 cp ../misc/foreword/*.* $build_folder
 
 cat ../misc/foreword/README.md > $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/1_turn_everything_on_and_off.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/2_be_a_good_controller.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/3_prepare_cutting.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/4_extinguish_fire_as_controller.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/5_your_first_cut_as_controller.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/6_be_a_good_operator.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/7_extinguish_fire_as_operator.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/8_your_first_cut_as_operator.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
 cat ../lessons/9_certification.md >> $build_folder/README.md
 
 cp guide_style.theme $build_folder
