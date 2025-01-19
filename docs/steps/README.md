@@ -15,10 +15,10 @@ tags:
 - [Position the material](position_material.md)
 - [Setup laser physically](setup_laser_physically.md)
 - [Setup laser in LightBurn](setup_laser_in_lightburn.md)
-- Load or create an image
+- [Load or create an image](load_image.md)
 - [Setup LightBurn](setup_lightburn.md)
-- Close enclosure
+- [Close enclosure](close_enclosure)
 - [Start laser](start_laser.md)
 - [Turn off laser](turn_off_laser.md)
-- Turn off computer
-- Turn off ventilation
+- [Turn off computer](turn_off_computer.md)
+- [Turn off ventilation](Turn off ventilation)
