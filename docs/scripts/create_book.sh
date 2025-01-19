@@ -21,7 +21,8 @@ fi
 # We are in the 'scripts' folder
 #
 cp ../lessons/*.* $build_folder
-cat ../lessons/1_turn_everything_on_and_off.md > $build_folder/README.md
+cat ../misc/forward/README.md > $build_folder/README.md
+cat ../lessons/1_turn_everything_on_and_off.md >> $build_folder/README.md
 cat ../lessons/2_be_a_good_controller.md >> $build_folder/README.md
 cat ../lessons/3_prepare_cutting.md >> $build_folder/README.md
 cat ../lessons/4_extinguish_fire_as_controller.md >> $build_folder/README.md
