@@ -1,6 +1,10 @@
 #!/bin/bash
-
-# Concatenate all Markdown files first, convert those to one PDF
+# Create the PDFs
+#
+# Usage:
+#
+# ./create_book_1.sh
+#
 
 build_folder=build
 
@@ -12,8 +16,11 @@ if [ ! -d $build_folder ]; then
   exit 1
 fi
 
+# Concatenate all markdown files, convert those to one PDF
+#
+# We are in the 'scripts' folder
+#
 cp ../lessons/*.* $build_folder
-
 cat ../lessons/1_turn_everything_on_and_off.md > $build_folder/README.md
 cat ../lessons/2_be_a_good_controller.md >> $build_folder/README.md
 cat ../lessons/3_prepare_cutting.md >> $build_folder/README.md
@@ -32,11 +39,17 @@ cd "${build_folder}" || exit 41
 # Code has highlights following the tango color scheme
 # Thinner margin of 0.5 inch
 # Do not cut code blocks
-pandoc README.md -o book.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
+#
+# We are in the 'scripts/build' folder
+#
+pandoc README.md -o book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
 
-cp book.pdf ../../pdfs/book_without_cover.pdf
+cp book_without_cover.pdf ../../pdfs/book_without_cover.pdf
 
 cd ../../pdfs || exit 42
+#
+# We are in the 'pdfs' folder
+#
 pdfunite cover.pdf book_without_cover.pdf book.pdf
 
 # Make booklet
