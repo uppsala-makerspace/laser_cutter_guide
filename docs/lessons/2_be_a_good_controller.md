@@ -6,7 +6,7 @@ tags:
   - controller
 ---
 
-# 1. Be a good controller
+# 2. Be a good controller
 
 To use the laser, two people are needed:
 

@@ -4,9 +4,10 @@ tags:
   - session
   - safety
   - laser
+  - operator
 ---
 
-# 4. Be a good operator
+# 6. Be a good operator
 
 To use the laser, two people are needed:
 

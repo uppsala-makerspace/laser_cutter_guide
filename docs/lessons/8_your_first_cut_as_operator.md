@@ -5,9 +5,10 @@ tags:
   - first
   - beginner
   - basic
+  - operator
 ---
 
-# 6. Your first cut
+# 8. Your first cut as an operator
 
 Finally, we make our first cut!
 

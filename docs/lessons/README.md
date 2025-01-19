@@ -4,7 +4,7 @@ These are the lessons needed to get a certificate.
 
 No |Your role |Lesson
 ---|----------|---------------------------
-1  |Controller|[Turn everything on and off](1_turn_everything_on_and_off.md)
+1  |Assistant |[Turn everything on and off](1_turn_everything_on_and_off.md)
 2  |Controller|[Be a good controller](2_be_a_good_controller.md)
 3  |Controller|[Prepare for cutting](3_prepare_cutting.md)
 4  |Controller|[Extinguish fire as a controller](4_extinguish_fire_as_controller.md)

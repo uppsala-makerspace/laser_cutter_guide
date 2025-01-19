@@ -4,6 +4,7 @@ tags:
   - session
   - turn on
   - turn off
+  - assistant
 ---
 
 # 1. Turn everything on and off

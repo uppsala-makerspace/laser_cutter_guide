@@ -5,9 +5,10 @@ tags:
   - first
   - beginner
   - basic
+  - controller
 ---
 
-# 6. Your first cut
+# 5. Your first cut as a controller
 
 Finally, we make our first cut!
 

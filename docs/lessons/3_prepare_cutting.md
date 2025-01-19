@@ -1,3 +1,11 @@
+---
+tags:
+  - lesson
+  - session
+  - controller
+  - prepare
+---
+
 # 3. Prepare for cutting
 
 There are multiple things that need to be done

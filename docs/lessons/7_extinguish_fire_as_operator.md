@@ -4,11 +4,12 @@ tags:
   - session
   - safety
   - fire
+  - operator
 ---
 
-# 5. Extinguish fire as a controller
+# 7. Extinguish fire as an operator
 
-Before we make our first cut, we need to be able
+Before we make our first cut as an operator, we need to be able
 to extinguish a fire when it occurs.
 
 ## Exercise

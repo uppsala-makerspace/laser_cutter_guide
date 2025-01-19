@@ -4,9 +4,11 @@ tags:
   - session
   - safety
   - fire
+  - extinguish
+  - controller
 ---
 
-# 5. Extinguish fire as a controller
+# 4. Extinguish fire as a controller
 
 Before we make our first cut, we need to be able
 to extinguish a fire when it occurs.
