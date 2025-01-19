@@ -2,7 +2,7 @@
 
 ![Our laser cutter](docs/misc/cover/laser_cutter.jpg )
 
-Manual for using the Uppsala Makerspacelaser cutter.
+Manual for using the Uppsala Makerspace laser cutter.
 
 - [Website friendly](https://uppsala-makerspace.github.io/laser_cutter_guide/)
 - Printer friendly: [A4](docs/pdfs/book.pdf) [A5](docs/pdfs/booklet.pdf)
