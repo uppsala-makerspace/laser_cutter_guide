@@ -12,5 +12,5 @@ No |Your role |Lesson
 6  |Operator  |[Be a good operator](6_be_a_good_operator.md)
 7  |Operator  |[Extinguish fire as an operator](7_extinguish_fire_as_operator.md)
 8  |Operator  |[Your first cut as an operator](8_your_first_cut_as_operator.md)
-9  |Operator  |[Certication](9_certification.md)
+9  |Operator  |[Certification](9_certification.md)
 
