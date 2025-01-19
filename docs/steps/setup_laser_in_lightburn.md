@@ -20,7 +20,7 @@ It will probably say `COM1` or `COM4` or `COM6`.
 Now The Dance starts. The Dance is picking different COM ports,
 until a connection is established.
 
-Select `COM1`. 
+Select `COM1`.
 
 ![Select `COM1`](lightburn_com1.png)
 
