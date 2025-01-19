@@ -1,13 +1,11 @@
-# Laser_cutter_guide
+# Laser cutter guide
 
-```text
-Image of our laser cutter
-```
+![Our laser cutter](docs/misc/cover/laser_cutter.jpg )
 
-Manual for using the laser cuter:
+Manual for using the Uppsala Makerspacelaser cutter.
 
 - [Website friendly](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-- Printer friendly: TODO
+- Printer friendly: [A4](docs/pdfs/book.pdf) [A5](docs/pdfs/booklet.pdf)
 
 [Contributions are welcome](https://uppsala-makerspace.github.io/laser_cutter_guide/CONTRIBUTING/)!
 
