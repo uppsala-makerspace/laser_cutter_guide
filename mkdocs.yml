@@ -24,15 +24,15 @@ nav:
     - Turn off ventilation: steps/turn_off_ventilation.md
   - Lessons:
     - Overview: lessons/README.md
-    - 1. Turn everything on and off: lessons/1_turn_everything_on_and_off.md)
-    - 2. Be a good controller: lessons/2_be_a_good_controller.md)
-    - 3. Prepare for cutting: lessons/3_prepare_cutting.md)
-    - 4. Extinguish fire as a controller: lessons/4_extinguish_fire_as_controller.md)
-    - 5. Your first cut as a controller: lessons/5_your_first_cut_as_controller.md)
-    - 6. Be a good operator: lessons/6_be_a_good_operator.md)
-    - 7. Extinguish fire as an operator: lessons/7_extinguish_fire_as_operator.md)
-    - 8. Your first cut as an operator: lessons/8_your_first_cut_as_operator.md)
-    - 9. Certication: lessons/9_certification.md)
+    - 1. Turn everything on and off: lessons/1_turn_everything_on_and_off.md
+    - 2. Be a good controller: lessons/2_be_a_good_controller.md
+    - 3. Prepare for cutting: lessons/3_prepare_cutting.md
+    - 4. Extinguish fire as a controller: lessons/4_extinguish_fire_as_controller.md
+    - 5. Your first cut as a controller: lessons/5_your_first_cut_as_controller.md
+    - 6. Be a good operator: lessons/6_be_a_good_operator.md
+    - 7. Extinguish fire as an operator: lessons/7_extinguish_fire_as_operator.md
+    - 8. Your first cut as an operator: lessons/8_your_first_cut_as_operator.md
+    - 9. Certication: lessons/9_certification.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
