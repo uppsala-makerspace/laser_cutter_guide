@@ -16,24 +16,23 @@ Finally, we make our first cut!
 
 On your own, do [all the steps](../steps/) until (i.e. without) 'Start laser':
 
-- For material, use a match
+- For material, use any material that is fast to cut
 - For the design, use a very small circle
-- The laser is set up to cut the head of the match, using the settings
+- The laser is set up to cut the material, using the settings
   in this guide
-- Test that the head of the match will indeed be hit by the laser,
+- Test that the material will indeed be hit by the laser,
   using the 'Frame' functionality
 
 Find a controller to be responsible for starting the laser.
-You will be responsible for extinguishing the fire!
 
 ## Exercise 1: dry run
 
 The first exercise is a dry run of what needs to be done:
 
+- Do the safety procedure as usual
 - The operator says: 'laser started'
-- The operator says: 'fire'
-- The operator opens the enclosure
-- You pretend to extinguish the fire
+- The operator says: 'all is well'
+- The operator says: 'laser done'
 
 ## Exercise 2: demonstration by operator
 
@@ -41,21 +40,11 @@ In the second exercise, the operator shows how this must be done:
 
 - The operator follows the regular procedure for starting the laser
   and starts the laser
-- When the first starts, the operator says: 'fire'
-- The operator turns off the laser, opens the enclosure and extinguishes
-  the fire
-
-## Exercise 3: for real
-
-In the third exercise, you will extinguish the fire
-
-- The operator follows the regular procedure for starting the laser
-  and starts the laser
-- When the first starts, the operator says: 'fire'
+- The operator will say: 'laser started', 'all is well' and 'laser done'
 - The operator turns off the laser and opens the enclosure
-- You extinguish the fire
+- Take out the material, see if it worked
 
 ## Exam
 
-Do exercise 3 without errors.
+Do exercise 2 without errors.
 

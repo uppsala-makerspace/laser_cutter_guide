@@ -23,39 +23,32 @@ On your own, do [all the steps](../steps/) until (i.e. without) 'Start laser':
 - Test that the head of the match will indeed be hit by the laser,
   using the 'Frame' functionality
 
-Find an operator to be responsible for starting the laser.
+Find a controller.
 You will be responsible for extinguishing the fire!
 
 ## Exercise 1: dry run
 
 The first exercise is a dry run of what needs to be done:
 
-- The operator says: 'laser started'
-- The operator says: 'fire'
-- The operator opens the enclosure
+- Do the regular safety procedure
+- You say: 'laser started'
+- You say: 'fire'
+- You pretend to click 'Stop' in LightBurn
+- You open the enclosure
 - You pretend to extinguish the fire
 
-## Exercise 2: demonstration by operator
+## Exercise 2: for real
 
-In the second exercise, the operator shows how this must be done:
+In the second exercise, you will extinguish the fire
 
-- The operator follows the regular procedure for starting the laser
-  and starts the laser
-- When the first starts, the operator says: 'fire'
-- The operator turns off the laser, opens the enclosure and extinguishes
-  the fire
-
-## Exercise 3: for real
-
-In the third exercise, you will extinguish the fire
-
-- The operator follows the regular procedure for starting the laser
-  and starts the laser
-- When the first starts, the operator says: 'fire'
-- The operator turns off the laser and opens the enclosure
+- Do the regular safety procedure
+- Start the laser and say: 'laser started'
+- When the first starts, you say: 'fire'
+- In LightBurn, you click on 'Stop'
+- You open the procedure
 - You extinguish the fire
 
 ## Exam
 
-Do exercise 3 without errors.
+Do exercise 2 without errors.
 
