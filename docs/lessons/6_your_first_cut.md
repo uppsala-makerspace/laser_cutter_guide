@@ -7,5 +7,5 @@ tags:
   - basic
 ---
 
-# 3. Your first cut
+# 6. Your first cut
 
