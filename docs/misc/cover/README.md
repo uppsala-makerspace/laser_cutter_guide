@@ -1,5 +1,3 @@
 # Laser cutter guide
 
-```bash
-COOL IMAGE
-```
+![Our laser cutter](laser_cutter.jpg)
