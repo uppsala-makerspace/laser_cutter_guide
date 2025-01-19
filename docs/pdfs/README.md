@@ -8,6 +8,7 @@ tags:
 
 # PDFs
 
-Filename                                            |Description
-----------------------------------------------------|----------------------------------------------------
-`TODO`                                              |Printer-friendly version of this guide
+Filename                  |Description
+--------------------------|----------------------------------------------------
+[book.pdf](book.pdf)      |A4 printer-friendly version of this guide
+[booklet.pdf](booklet.pdf)|A5 printer-friendly version of this guide
