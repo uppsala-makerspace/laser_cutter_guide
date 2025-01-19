@@ -21,7 +21,7 @@ fi
 # We are in the 'scripts' folder
 #
 cp ../misc/cover/* $build_folder
-cat ../misc/cover/REAMD.md > $build_folder/README.md
+cat ../misc/cover/README.md > $build_folder/README.md
 
 cp guide_style.theme $build_folder
 
