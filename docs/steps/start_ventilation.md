@@ -24,7 +24,7 @@ Go to the back of the woodshop
 
 At the backside of the woodshop, find the timer.
 
-![The backside of the woodshop](backside_woodshop_with_arrow.jpg)
+![The backside of the woodshop](backside_woodshop_new.jpg)
 
 > The backside of the woodshop
 
