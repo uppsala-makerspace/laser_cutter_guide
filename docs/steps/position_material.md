@@ -9,7 +9,7 @@ tags:
 
 # Position material
 
-Put the material in the enclosure.
+Put the material on the black metal in the enclosure.
 
 ![Put the material in the enclosure](position_material.jpg)
 
