@@ -50,3 +50,7 @@ If The Dance needs to be continued, click `COM6`
 
 In this case, the message 'ok' is shown (in the 'Console' tab).
 The Dance is over!
+
+Press home 
+>press home
+
