@@ -44,7 +44,7 @@ In the second exercise, the operator shows how this must be done:
 
 - The operator follows the regular safety procedure for starting the laser
   and starts the laser
-- When the first starts, the operator says: 'fire'
+- When the fire starts, the operator says: 'fire'
 - The operator turns off the laser, opens the enclosure and extinguishes
   the fire
 
