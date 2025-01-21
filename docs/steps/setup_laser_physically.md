@@ -37,7 +37,10 @@ by unscrewing it a bit.
 
 Slide the laser down, so it rests on the spacer.
 
-| ![Slide the laser down, so it rests on the spacer](resting_the_laser_on_the_spacer.jpg) |  | ![Slide the laser down, so it rests on the spacer](resting_the_laser_on_the_spacer.jpg) |
+| Slide the laser down, so it rests on the spacer     | Slide the laser down, so it rests on the spacer |
+|-----------------------------------------------------|-------------------------------------------------|
+| ![2](resting_the_laser_on_the_spacer.jpg)           | ![2](resting_the_laser_on_the_spacer.jpg)       |
+
 
 > Slide the laser down, so it rests on the spacer.
 
