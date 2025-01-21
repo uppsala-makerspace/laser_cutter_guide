@@ -16,13 +16,24 @@ Material that is safe:
 - Paper
 - Paper for oil and acryl painting, 290 g/m2
 - Unpainted wood
+- Plywood
+- MDF 
 - Leather
-- Metal
+- Cork
+- Natural fiber Cloth, for example Cotton
+- Stone
+- Metal, but does not cut or engrave well
 - [more]
 
 Material that is unsafe:
 
-- [list here]
+- PVC plastic
+- ABS plastic
+- HDPE plastic
+- Carbon fiber'
+- Fiberglass
+- Polypropylen foam
+- Polystyrene foam
 
 Tips:
 
