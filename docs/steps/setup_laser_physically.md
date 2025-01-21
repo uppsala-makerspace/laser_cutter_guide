@@ -24,7 +24,9 @@ Take the spacer from its proper place.
 
 Place the spacer between laser and material
 
-![Place the spacer between laser and material](placing_the_spacer_under_the_laser.jpg)
+| 1                                                   |                                               2 |
+|-----------------------------------------------------|-------------------------------------------------|
+| ![1](placing_the_spacer_under_the_laser.jpg)           | ![2](placing_the_spacer_under_the_laser_version_2.jpg)       |
 
 > Place the spacer between laser and material
 
@@ -40,6 +42,7 @@ Slide the laser down, so it rests on the spacer.
 | Slide the laser down, so it rests on the spacer     | Slide the laser down, so it rests on the spacer |
 |-----------------------------------------------------|-------------------------------------------------|
 | ![2](resting_the_laser_on_the_spacer.jpg)           | ![2](resting_the_laser_on_the_spacer_version_3.jpg)       |
+
 
 
 > Slide the laser down, so it rests on the spacer.
