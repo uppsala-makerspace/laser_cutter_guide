@@ -34,6 +34,7 @@ The first exercise is a dry run of what needs to be done:
 - Do the regular safety procedure
 - The operator says: 'laser started'
 - The operator says: 'fire'
+- The operator presses Stop
 - The operator opens the enclosure
 - You pretend to extinguish the fire
 
