@@ -26,7 +26,7 @@ Place the spacer between laser and material
 
 | 1                                                   |                                               2 |
 |-----------------------------------------------------|-------------------------------------------------|
-| ![1](placing_the_spacer_under_the_laser.jpg)           | ![2](placing_the_spacer_under_the_laser_version_2.jpg)       |
+| ![1](placing_the_spacer_under_the_laser.jpg)           | ![2](placing_the_spacer_under_the_laser_version_3.jpg)       |
 
 > Place the spacer between laser and material
 
