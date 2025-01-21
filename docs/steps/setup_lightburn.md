@@ -19,4 +19,4 @@ tags:
 Material                                  |Cut     |Pass count|Speed (mm/sec)|Power (%)
 ------------------------------------------|--------|----------|--------------|---------
 Paper for oil and acryl painting, 290 g/m2|Complete|1         |10            |75
-Paper for oil and acryl painting, 290 g/m2|Half    |1         |10            |>10 and <20
+Paper for oil and acryl painting, 290 g/m2|Half    |1         |10            |25
