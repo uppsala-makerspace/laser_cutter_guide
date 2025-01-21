@@ -22,7 +22,8 @@ Material that is safe:
 - Cork
 - Natural fiber Cloth, for example Cotton
 - Stone
-- Metal, but does not cut or engrave well
+- Glass does not engrave or cut well
+- Metal, does not engrave or cut well
 - [more]
 
 Material that is unsafe:
