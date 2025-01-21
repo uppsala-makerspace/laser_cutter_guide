@@ -20,4 +20,7 @@ Now to power button is off.
 
 ![Buttons inside the laser cutter](laser_cutter_inside_buttons.jpg)
 
->Close the lid 
+
+
+
+Close the lid 
