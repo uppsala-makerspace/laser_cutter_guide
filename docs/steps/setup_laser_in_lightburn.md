@@ -54,6 +54,7 @@ The Dance is over!
 Press the Home button to make the laser orient itself
 It will move into the front left corner
 Before pressing home check that the laser is unobstructed from moving
+
 ![Press the home button`](lightburn_home_button.png)
 >Press home
 
