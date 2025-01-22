@@ -81,7 +81,7 @@ echo " " >> $build_folder/README.md
 
 cat ../lessons/9_certification.md >> $build_folder/README.md
 
-Rscript -e 'convert_file_to_markdown("build/README.md", "build/README.md")'
+Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md")'
 
 cp guide_style.theme $build_folder
 
@@ -95,18 +95,18 @@ cd "${build_folder}" || exit 41
 # Code has highlights following the tango color scheme
 # Thinner margin of 0.5 inch
 # Do not cut code blocks
-pandoc README.md -o book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
+pandoc README.md -o exercises_book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
 
-cp book_without_cover.pdf ../../pdfs/book_without_cover.pdf
+cp exercises_book_without_cover.pdf ../../pdfs/exercises_book_without_cover.pdf
 
 cd ../../pdfs || exit 42
 #
 # We are in the 'pdfs' folder
 #
-pdfunite cover.pdf book_without_cover.pdf book.pdf
+pdfunite exercises_cover.pdf exercises_book_without_cover.pdf exercises_book.pdf
 
 # Make booklet
-bookletimposer -a book.pdf -o booklet.pdf
+bookletimposer -a exercises_book.pdf -o exercises_booklet.pdf
 
 # Cleanup
-rm book_without_cover.pdf
+rm exercises_book_without_cover.pdf
