@@ -17,7 +17,7 @@ Material that is safe:
 - Paper for oil and acryl painting, 290 g/m2
 - Unpainted wood
 - Plywood
-- MDF 
+- MDF
 - Leather
 - Cork
 - Natural fiber Cloth, for example Cotton
