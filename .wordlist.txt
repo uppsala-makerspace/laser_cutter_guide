@@ -40,3 +40,9 @@ makerspace
 pdf
 Uppsala
 uppsala
+coloured
+HDPE
+Johan
+MDF
+Oelrich
+Polypropylen
