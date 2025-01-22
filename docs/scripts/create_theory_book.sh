@@ -25,6 +25,7 @@ fi
 
 #cp ../lessons/*.* $build_folder
 cp ../misc/foreword/*.* $build_folder
+cp ../steps/*.* $build_folder
 
 cat ../misc/foreword/README.md > $build_folder/README.md
 
