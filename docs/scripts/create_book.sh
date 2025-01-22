@@ -19,6 +19,9 @@ fi
 # Concatenate all markdown files, convert those to one PDF
 #
 # We are in the 'scripts' folder
+
+
+
 #cp ../lessons/*.* $build_folder
 cp ../misc/foreword/*.* $build_folder
 
@@ -78,6 +81,8 @@ echo " " >> $build_folder/README.md
 
 cat ../lessons/9_certification.md >> $build_folder/README.md
 
+Rscript -e 'convert_file_to_markdown("build/README.md", "build/README.md")'
+
 cp guide_style.theme $build_folder
 
 cd "${build_folder}" || exit 41
@@ -90,8 +95,6 @@ cd "${build_folder}" || exit 41
 # Code has highlights following the tango color scheme
 # Thinner margin of 0.5 inch
 # Do not cut code blocks
-
-
 pandoc README.md -o book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
 
 cp book_without_cover.pdf ../../pdfs/book_without_cover.pdf
