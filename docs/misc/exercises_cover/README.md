@@ -2,4 +2,6 @@
 
 ![Our laser cutter](laser_cutter.jpg)
 
+## Exercises
+
 ![Uppsala Makerspace](2024_logo_Complex_Black_thumbnail.png)
