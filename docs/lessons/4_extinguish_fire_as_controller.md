@@ -48,6 +48,8 @@ In the second exercise, the operator shows how this must be done:
 - The operator turns off the laser, opens the enclosure and extinguishes
   the fire
 
+\pagebreak
+
 ## Exercise 3: for real
 
 In the third exercise, you will extinguish the fire

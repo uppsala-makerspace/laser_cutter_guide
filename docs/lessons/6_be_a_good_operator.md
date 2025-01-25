@@ -40,6 +40,8 @@ All you will say is 'Laser is on'.
 - You pass if you stopped the procedure in step 3
 - The controller (not you!) fails if the laser would have been started
 
+\pagebreak
+
 ## Exercise 3: test the controller again
 
 - Turn off the air flow

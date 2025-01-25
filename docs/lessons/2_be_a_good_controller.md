@@ -45,6 +45,8 @@ All the operator says is 'Laser is on'.
 - However, in step 2, you or the operator must say 'stop' to stop the procedure.
   You and the operator pass if the laser is not started
 
+\pagebreak
+
 ## Exercise 4: test the controller
 
 - Turn off the air flow
