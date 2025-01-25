@@ -8,10 +8,15 @@ tags:
 
 # Setup LightBurn
 
-Here you set up how the laser cuts the image.
+Here you set up:
 
-For this, you will need the 'Cuts/Layers' tab, which
-is at the top-right of the screen
+- How the laser cuts
+- Where the laser cuts
+
+## How the laser cuts
+
+The 'Cuts/Layers' tab determines how the laser cuts.
+It is located at the top-right of the screen.
 
 ![The LightBurn 'Cuts/Layers' menu](lightburn_cuts_layers_menu.png)
 
@@ -53,3 +58,18 @@ Paper from printer                        |Half    |1         |30            |25
 You will have to find out your values by trail and error.
 Please [contribute](../CONTRIBUTE.md)
 the values for your favorite material.
+
+## Where the laser cuts
+
+The laser can show where it will cut.
+
+:warning: This laser light is safe! It is at very low power.
+
+In the 'Laser' menu, click 'Frame' (either the square or the oval one)
+to see the contour of where the laser will cut:
+
+![Trace frame](lightburn_trace_frame_tooltip.png)
+
+Align the material with where the laser cuts, either by
+moving the material or by moving the image in LightBurn or both.
+
