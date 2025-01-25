@@ -90,29 +90,3 @@ If a fire starts or someone says 'Stop', click on stop. Laser is safe after stop
 ### Step 9: Say 'Laser is off'
 
 Say 'Laser is off'. You can remove your hand from the casing
-
-## As a graph
-
-```mermaid
-flowchart TD
-   start[Start]
-   check_air[1.Air is on]
-   check_my_glasses[2.My glasses are on]
-   check_your_glasses[3.Your glasses are on]
-   check_behind_glasses[4.Behind us have glasses on]
-   countdown[5.Three, two, one]
-   press_start[6.Press start]
-   laser_is_on[7.Laser is on]
-   all_is_well[8.All is wll]
-   laser_is_off[9.Laser is off]
-
-   start --> check_air
-   check_air --> check_my_glasses
-   check_my_glasses --> check_your_glasses
-   check_your_glasses --> check_behind_glasses
-   check_behind_glasses --> countdown
-   countdown --> press_start
-   press_start --> laser_is_on
-   laser_is_on --> all_is_well
-   all_is_well --> laser_is_off
-```
