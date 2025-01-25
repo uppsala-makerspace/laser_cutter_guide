@@ -1,3 +1,11 @@
+---
+tags:
+  - faq
+  - frequently
+  - asked
+  - questions
+---
+
 # Frequently Asked Questions
 
 ## Why is the guide in English only?
