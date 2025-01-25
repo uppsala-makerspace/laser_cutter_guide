@@ -10,6 +10,13 @@ tags:
 
 # Setup laser in LightBurn
 
+To setup the laser in LightBurn:
+
+- Connect the the laser cutter
+- Home the laser
+
+## Connect to the laser cutter
+
 In LightBurn, click at the combo box right of 'Devices'.
 It will probably say `COM1` or `COM4` or `COM6`.
 
@@ -51,10 +58,15 @@ If The Dance needs to be continued, click `COM6`
 In this case, the message 'ok' is shown (in the 'Console' tab).
 The Dance is over!
 
-Press the Home button to make the laser orient itself
-(It will move into the front left corner)
-Before pressing home check that the lasers movement is unobstructed
+## Home the laser
 
-![Press the home button`](lightburn_home_button.png)
->Press home
+Check that the laser can movement to the front-left side
+of the enclosure: that is where its home is.
 
+Press the Home button to make the laser orient itself.
+
+![Press the home button](lightburn_home_button.png)
+
+> Press home
+
+The laser will move into the front left corner.

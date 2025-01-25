@@ -8,7 +8,12 @@ tags:
 
 # Setup LightBurn
 
-Here you set up how the laser cuts the image
+Here you set up how the laser cuts the image.
+
+For this, you will need the 'Cuts/Layers' tab, which
+is at the top-right of the screen
+
+![The LightBurn 'Cuts/Layers' menu](lightburn_cuts_layers_menu.png)
 
 In the 'Cuts/Layers' tab, you can set the most important parameters per layer:
 
@@ -21,6 +26,10 @@ Air          |Have air on yes/no. Have this on for cuts
 Speed (mm/s) |The speed of the laser
 Power Max (%)|The power of the laser
 Pass count   |How often the laser cuts each line
+
+![Select 'Line' to cut](lightburn_cuts_layers_menu_select_line.png)
+
+> Selet mode 'Line' to cut
 
 Here are the modes:
 
@@ -43,4 +52,4 @@ Paper from printer                        |Half    |1         |30            |25
 
 You will have to find out your values by trail and error.
 Please [contribute](../CONTRIBUTE.md)
-the values for your favorite material :-)
+the values for your favorite material.
