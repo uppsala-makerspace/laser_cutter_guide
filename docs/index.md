@@ -6,3 +6,4 @@
 
 Manual for using the laser cutter
 
+- [Go to printer friendly PDFs](pdfs/README.md)

@@ -12,8 +12,8 @@ Manual for using the Uppsala Makerspace laser cutter.
 
 **When in operation do not look directly at the light without the appropriate safety goggles**.
 
-- [Website friendly](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-- Printer friendly: [A4](docs/pdfs/book.pdf) [A5](docs/pdfs/booklet.pdf)
+- [Human friendly website](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+- [Printer friendly PDFs](docs/pdfs/README.md)
 
 [Contributions are welcome](https://uppsala-makerspace.github.io/laser_cutter_guide/CONTRIBUTING/)!
 
