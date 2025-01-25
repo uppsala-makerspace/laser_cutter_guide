@@ -15,33 +15,38 @@ tags:
 
 # Get material
 
-Get the material to cut
+Get a material that is safe to cut.
 
-Material that is safe:
+## Safe materials
 
+- Cork
+- Leather
+- MDF
+- Natural fiber cloth, e.g. cotton
 - Paper
 - Paper for oil and acryl painting, 290 g/m2
-- Unpainted wood
 - Plywood
-- MDF
-- Leather
-- Cork
-- Natural fiber cloth, e.g. cotton
 - Stone
-- Glass (but does not engrave or cut well)
-- Metal (but does not engrave or cut well)
+- Unpainted wood
 
-Material that is unsafe:
+## Unusable
 
-- PVC plastic
+These materials are safe, but do not engrave or cut well.
+
+- Glass
+- Metal
+
+## Unsafe materials
+
 - ABS plastic
-- HDPE plastic
 - Carbon fiber
 - Fiberglass
+- HDPE plastic
+- Painted wood
 - Polypropylene foam
 - Polystyrene foam
+- PVC plastic
 
-Tips:
+## Tips
 
 - K-Rauta sells cheap wood
-
