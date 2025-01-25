@@ -25,7 +25,18 @@ fi
 #cp ../lessons/*.* $build_folder
 cp ../misc/foreword/*.* $build_folder
 
-cat ../misc/foreword/README.md > $build_folder/README.md
+# Newline between TOC and foreworkd
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
+cat ../misc/foreword/README.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md
+echo "\pagebreak" >> $build_folder/README.md
+echo " " >> $build_folder/README.md
+
+cat ../misc/safety_warning/README.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md
 echo "\pagebreak" >> $build_folder/README.md
