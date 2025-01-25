@@ -5,6 +5,12 @@ tags:
   - set
   - get
   - material
+  - safe
+  - unsafe
+  - fumes
+  - toxic
+  - suitable
+  - unsuitable
 ---
 
 # Get material
@@ -20,20 +26,19 @@ Material that is safe:
 - MDF
 - Leather
 - Cork
-- Natural fiber Cloth, for example Cotton
+- Natural fiber cloth, e.g. cotton
 - Stone
-- Glass does not engrave or cut well
-- Metal, does not engrave or cut well
-- [more]
+- Glass (but does not engrave or cut well)
+- Metal (but does not engrave or cut well)
 
 Material that is unsafe:
 
 - PVC plastic
 - ABS plastic
 - HDPE plastic
-- Carbon fiber'
+- Carbon fiber
 - Fiberglass
-- Polypropylen foam
+- Polypropylene foam
 - Polystyrene foam
 
 Tips:
