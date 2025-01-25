@@ -17,33 +17,21 @@ Starting the ventiation has two steps:
 
 In the woodshop, press the button to turn on the ventilation.
 
-Go through the door of the woodshop:
+Find the door to the woodshop.
 
-![Door to the woodshop](door_to_woodshop.jpg)
+![Door to the woodshop](door_to_woodshop_50.png)
 
-> The door to the woodshop
+Go through the door of the woodshop. You are now in the woodshop.
 
-Go to the back of the woodshop
-
-![Woodshop](woodshop.jpg)
-
-> The woodshop
+![Woodshop](woodshop_50.png)
 
 At the backside of the woodshop, find the timer.
 
 ![The backside of the woodshop](backside_woodshop_new.jpg)
 
-> The backside of the woodshop
+Go to the ventilation timer. Here is how it looks:
 
-Go to the ventilation timer
-
-![The ventilation timer](ventilation_timer_right_side_up.jpg)
-
-> The ventilation timer
-
-![The ventilation timer and its label](ventilation_timer_label.jpg)
-
-> The label on the ventilation timer
+![The ventilation timer](ventilation_timer_right_side_up_50.png)
 
 Press the button of the right duration on the ventilation timer:
 
@@ -52,11 +40,10 @@ Press the button of the right duration on the ventilation timer:
 
 ![The button on the ventilation timer](ventilation_timer_buttons.jpg)
 
-Now the ventilation timer is on.
+Now the ventilation timer is on and you will a blue LED
+light up.
 
 ![The ventilation timer is on](ventilation_timer_is_on.jpg)
-
-> The ventilation timer is on
 
 You should hear a noise start.
 This is a fan that will suck out the air from the laser cutter's
@@ -67,10 +54,9 @@ enclosure.
 In the same room as the laser,
 there is a fume hood, that
 uses the same ventilation.
+This is how the fume hood looks:
 
 ![The fume hood](fume_hood_ventilation.jpg)
-
-> The fume hood
 
 At the top of the fume hood, there is a slider.
 
