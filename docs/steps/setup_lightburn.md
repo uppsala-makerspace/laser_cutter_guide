@@ -38,7 +38,7 @@ Material                                  |Cut     |Pass count|Speed (mm/sec)|Po
 ------------------------------------------|--------|----------|--------------|---------
 Paper for oil and acryl painting, 290 g/m2|Complete|1         |10            |75
 Paper for oil and acryl painting, 290 g/m2|Half    |1         |10            |20
-Paper from printer                        |Complete|1         |10            |20 
+Paper from printer                        |Complete|1         |10            |20
 Paper from printer                        |Half    |1         |30            |25
 
 You will have to find out your values by trail and error.
