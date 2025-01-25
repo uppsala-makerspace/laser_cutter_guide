@@ -41,6 +41,7 @@ nav:
     - Frequently Asked Questions: faq.md
     - PDFs: pdfs/README.md
     - License: LICENSE.md
+    - Scripts: scripts/README.md
     - Troubleshooting: troubleshooting/README.md
 
 theme:
