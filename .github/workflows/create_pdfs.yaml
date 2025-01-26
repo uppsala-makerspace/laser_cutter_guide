@@ -35,7 +35,7 @@ jobs:
 
       - name: Create covers
         run: |
-          cd docs/scripts
+          cd docs/scripts/
           ./create_exercises_cover.sh
           ./create_theory_cover.sh
           ls docs/pdfs/
