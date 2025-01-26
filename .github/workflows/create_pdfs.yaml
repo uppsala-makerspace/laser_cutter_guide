@@ -1,0 +1,42 @@
+name: Create the PDFs
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Install libcurl4-openssl-dev
+        run: sudo apt install -qq libcurl4-openssl-dev
+        if: matrix.os == 'ubuntu-latest'
+
+      - name: Install libharfbuzz-dev libfribidi-dev
+        run: sudo apt install -qq libharfbuzz-dev libfribidi-dev
+
+      - name: Install dependencies
+        run: |
+          install.packages("remotes")
+          remotes::install_github("richelbilderbeek/mkdocs2md")
+        shell: Rscript {0}
+
+      - name: Delete PDFs
+        run: |
+          rm docs/pdfs/*.pdf
+          ls docs/pdfs/*.pdf
+
+      - name: Create PDFs
+        run: |
+          cd docs/scripts
+          ./create_exercises_cover.sh
+          ./create_theory_cover.sh
+          ./create_exercises_book.sh
+          ./create_theory_book.sh
+          ls docs/pdfs/*.pdf
