@@ -11,6 +11,11 @@ on:
       - .wordlist.txt
       - .spellcheck.yml
   pull_request:
+    paths:
+      - '**.md'
+      - .github/workflows/check_spelling.yaml
+      - .wordlist.txt
+      - .spellcheck.yml
   schedule:
   - cron: "0 0 21 * *"
 
