@@ -24,4 +24,4 @@ Because that is what we decided to do first.
 
 Yes, here it is:
 
-![QR code for this guide](laser_cutter_guide.png)
+![QR code for this guide](qr_code.png)
