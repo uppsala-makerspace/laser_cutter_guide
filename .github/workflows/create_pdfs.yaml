@@ -68,3 +68,9 @@ jobs:
           ./create_exercises_book.sh
           ./create_theory_book.sh
           ls docs/pdfs/*.pdf
+
+      - name: Upload books
+        uses: actions/upload-artifact@v2
+        with:
+          name: laser_cutter_books.zip
+          path: docs/pdfs/*.pdf
