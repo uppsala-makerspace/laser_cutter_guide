@@ -4,7 +4,7 @@
 
 Manual for using the Uppsala Makerspace laser cutter.
 
-![WARNING: Laser](docs/warning_laser.svg) **The laser can blind you if used improperly.**
+![WARNING: Laser](docs/misc/safety_warning/warning_laser.svg) **The laser can blind you if used improperly.**
 
 1. The coloured plastic does not prevent harm from the laser.
 1. The laser cutter can (and will) operate in unsafe ways, there are no automatic safety systems in place.
