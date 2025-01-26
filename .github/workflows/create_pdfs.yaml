@@ -7,6 +7,9 @@ on:
       - .github/workflows/create_pdfs.yaml
   pull_request:
 
+env: 
+  GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
