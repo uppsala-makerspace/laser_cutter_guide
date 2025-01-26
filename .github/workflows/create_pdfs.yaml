@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - docs/
+      - .github/workflow/create_pdfs.yaml
   pull_request:
 
 jobs:
