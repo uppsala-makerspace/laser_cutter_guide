@@ -1,6 +1,6 @@
 # Laser cutter guide
 
-![Our laser cutter](docs/misc/cover/laser_cutter.jpg )
+![Our laser cutter](docs/misc/theory_cover/laser_cutter.jpg )
 
 Manual for using the Uppsala Makerspace laser cutter.
 
