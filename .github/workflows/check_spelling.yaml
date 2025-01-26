@@ -8,6 +8,8 @@ on:
     paths:
       - '**.md'
       - .github/workflows/check_spelling.yaml
+      - .wordlist.txt
+      - .spellcheck.yml
   pull_request:
   schedule:
   - cron: "0 0 21 * *"
