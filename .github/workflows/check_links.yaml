@@ -6,12 +6,9 @@ name: Check links
 on:
   push:
     paths:
-      - **/*.md
+      - '**.md'
       - .github/workflow/check_links.yaml
   pull_request:
-    paths:
-      - **/*.md
-      - .github/workflow/check_links.yaml
   schedule:
   - cron: "0 0 21 * *"
 

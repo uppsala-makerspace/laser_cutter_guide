@@ -6,7 +6,7 @@ name: Check markdown
 on:
   push:
     paths:
-      - **/*.md
+      - '**.md'
   pull_request:
   schedule:
   - cron: "0 0 21 * *"
