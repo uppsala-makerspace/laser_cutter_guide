@@ -38,7 +38,7 @@ jobs:
           cd docs/scripts
           ./create_exercises_cover.sh
           ./create_theory_cover.sh
-          ls docs/pdfs/*.pdf
+          ls docs/pdfs/
           cd -
 
       - name: Install libcurl4-openssl-dev
