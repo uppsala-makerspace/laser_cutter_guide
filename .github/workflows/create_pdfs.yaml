@@ -38,8 +38,8 @@ jobs:
           cd docs/scripts/
           ./create_exercises_cover.sh
           ./create_theory_cover.sh
-          ls docs/pdfs/
           cd -
+          ls docs/pdfs/
 
       - name: Install libcurl4-openssl-dev
         run: sudo apt install -qq libcurl4-openssl-dev
