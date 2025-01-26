@@ -67,7 +67,8 @@ jobs:
           cd docs/scripts
           ./create_exercises_book.sh
           ./create_theory_book.sh
-          ls docs/pdfs/*.pdf
+          cd -
+          ls docs/pdfs/
 
       - name: Upload books
         uses: actions/upload-artifact@v4
