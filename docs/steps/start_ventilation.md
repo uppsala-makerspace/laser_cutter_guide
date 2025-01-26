@@ -8,7 +8,7 @@ tags:
 
 # Start ventilation
 
-Starting the ventiation has two steps:
+Starting the ventilation has two steps:
 
 - Turn on the ventilation
 - Block the fume food
