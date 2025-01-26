@@ -5,7 +5,11 @@ name: Check links
 # 21st as the first letter of this repo is the 21st letter in the alphabet.
 on:
   push:
+      - **/*.md
+      - .github/workflow/check_links.yaml
   pull_request:
+      - **/*.md
+      - .github/workflow/check_links.yaml
   schedule:
   - cron: "0 0 21 * *"
 
