@@ -2,6 +2,8 @@ name: Create website
 
 on:
   push:
+    paths:
+      - docs/
   pull_request:
 
 jobs:
