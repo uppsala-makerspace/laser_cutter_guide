@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - '**.md'
-      - .github/workflow/check_links.yaml
+      - .github/workflows/check_links.yaml
   pull_request:
   schedule:
   - cron: "0 0 21 * *"
