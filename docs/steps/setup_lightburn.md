@@ -56,7 +56,7 @@ Paper from printer                        |Complete|1         |10            |20
 Paper from printer                        |Half    |1         |30            |25
 
 You will have to find out your values by trail and error.
-Please [contribute](../CONTRIBUTing.md)
+Please [contribute](../CONTRIBUTING.md)
 the values for your favorite material.
 
 ## Where the laser cuts
