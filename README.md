@@ -1,5 +1,15 @@
 # Laser cutter guide
 
+<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+
+[![Check links](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_links.yaml)
+[![Check markdown](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_markdown.yaml)
+[![Check spelling](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_spelling.yaml)
+[![Create the PDFs](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_pdfs.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_pdfs.yaml)
+[![Create website](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_website.yaml)
+
+<!-- markdownlint-enable MD013 -->
+
 ![Our laser cutter](docs/misc/theory_cover/laser_cutter.jpg )
 
 Manual for using the Uppsala Makerspace laser cutter.
