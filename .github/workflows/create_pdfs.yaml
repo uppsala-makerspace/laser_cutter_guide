@@ -17,14 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: See PDFs
-        run: |
-          ls docs/pdfs/*.pdf
+      - name: See PDFs are still there
+        run: ls docs/pdfs/*.pdf
 
       - name: Delete PDFs
-        run: |
-          rm docs/pdfs/*.pdf
-          ls docs/pdfs/*.pdf
+        run: rm docs/pdfs/*.pdf
+
+      - name: See PDFs are gone
+        run: ls docs/pdfs/*.pdf
 
       - uses: r-lib/actions/setup-r@v2
 
