@@ -3,9 +3,7 @@ name: Create the PDFs
 on:
   push:
     paths:
-      - '**.md'
-      - '**.sh'
-      - '**.R'
+      - 'docs/**'
       - .github/workflows/create_pdfs.yaml
   pull_request:
 
