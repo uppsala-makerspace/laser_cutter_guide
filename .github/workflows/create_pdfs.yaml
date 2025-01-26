@@ -70,7 +70,7 @@ jobs:
           ls docs/pdfs/*.pdf
 
       - name: Upload books
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: laser_cutter_books.zip
           path: docs/pdfs/*.pdf
