@@ -28,10 +28,16 @@ jobs:
       - name: Install libfontconfig1-dev
         run: sudo apt install -qq libfontconfig1-dev
 
-      - name: Install dependencies
-        run: |
-          install.packages(c("devtools", "remotes"))
-          devtools::install_github("richelbilderbeek/mkdocs2md")
+      - name: Install devtools
+        run: install.packages("devtools")
+        shell: Rscript {0}
+
+      - name: Install devtools
+        run: install.packages("remotes")
+        shell: Rscript {0}
+
+      - name: Install mkdocs2md
+        run: remotes::install_github("richelbilderbeek/mkdocs2md")
         shell: Rscript {0}
 
       - name: Delete PDFs
