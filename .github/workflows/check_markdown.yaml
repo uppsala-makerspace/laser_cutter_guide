@@ -8,6 +8,10 @@ on:
     paths:
       - '**.md'
       - .github/workflows/check_markdown.yaml
+      - .github/workflows/valid_json_schema.json
+      - mlc_config.json
+      - .markdownlint.jsonc
+      - .markdownlintignore
   pull_request:
   schedule:
   - cron: "0 0 21 * *"
