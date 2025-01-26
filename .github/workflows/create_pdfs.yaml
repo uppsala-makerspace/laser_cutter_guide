@@ -24,7 +24,7 @@ jobs:
         run: rm docs/pdfs/*.pdf
 
       - name: See PDFs are gone
-        run: ls docs/pdfs/*.pdf
+        run: ls docs/pdfs
 
       - uses: r-lib/actions/setup-r@v2
 
