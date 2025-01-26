@@ -26,6 +26,10 @@ jobs:
       - name: Install libharfbuzz-dev libfribidi-dev
         run: sudo apt install -qq libharfbuzz-dev libfribidi-dev
 
+      - name: Install libfontconfig1-dev
+        run: sudo apt install -qq libfontconfig1-dev
+
+
       - name: Install dependencies
         run: |
           install.packages(c("devtools", "remotes"))
