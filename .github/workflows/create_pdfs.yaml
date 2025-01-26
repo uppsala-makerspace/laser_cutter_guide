@@ -26,8 +26,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages("remotes")
-          remotes::install_github("richelbilderbeek/mkdocs2md")
+          install.packages(c("devtools", "remotes"))
+          devtools::install_github("richelbilderbeek/mkdocs2md")
         shell: Rscript {0}
 
       - name: Delete PDFs
