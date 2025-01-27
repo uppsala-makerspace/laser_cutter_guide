@@ -66,7 +66,7 @@ of the enclosure: that is where its home is. Always home it, even when its alrea
 
 | Laser homing                              | Laser finished homing                              |
 |:-----------------------------------------:|:-------------------------------------------------:|
-|![Laser homing](laser_starting_homing.png) | ![Laser finshed homing](laser_finished_homing.png) |
+|![Laser homing](laser_starting_homing.png) | ![Laser finished homing](laser_finished_homing.png) |
 
 
 Press the Home button to make the laser orient itself.
