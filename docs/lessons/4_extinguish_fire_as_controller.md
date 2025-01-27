@@ -50,16 +50,6 @@ In the second exercise, the operator shows how this must be done:
 
 \pagebreak
 
-## Exercise 3: for real
-
-In the third exercise, you will extinguish the fire
-
-- The operator follows the regular procedure for starting the laser
-  and starts the laser
-- When the first starts, the operator says: 'fire'
-- The operator turns off the laser and opens the enclosure
-- You extinguish the fire
-
 ## Exam
 
 Do exercise 3 without errors.
