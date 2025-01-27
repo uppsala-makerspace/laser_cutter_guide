@@ -60,7 +60,7 @@ The Dance is over!
 
 ## Home the laser
 
-Check that the laser can movement to the front-left side
+Check that the laser can move to the front-left side
 of the enclosure: that is where its home is.
 
 Press the Home button to make the laser orient itself.
