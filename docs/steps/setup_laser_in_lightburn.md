@@ -64,8 +64,8 @@ Check that the laser can move to the front-left side
 of the enclosure: that is where its home is. Always home it, even when its already in its corner. After homing it should say "ok" in console again. 
 
 
-| Laser homing                | Laser finished homing            |
-|-----------------------------|----------------------------------|
+| Laser homing                              | Laser finished homing                              |
+|-------------------------------------------|---- -----------------------------------------------|
 |![Laser homing](laser_starting_homing.png) | ![Laser finshed homing](laser_finished_homing.png) |
 
 
