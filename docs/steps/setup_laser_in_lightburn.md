@@ -70,7 +70,6 @@ Press the Home button to make the laser orient itself.
 > Press home
 
 The laser will move into the front left corner.
-!(laser_starting_homing.png)
 
 | Laser homing                | Laser finished homing        |
 |-----------------------------|------------------------------|
