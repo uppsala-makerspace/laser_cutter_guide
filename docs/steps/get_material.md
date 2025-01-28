@@ -20,7 +20,7 @@ Get a material that is safe to cut.
 ## Safe materials
 
 - Cork
-- Leather
+- Leather, Fake leather is unsafe
 - MDF
 - Natural fiber cloth, e.g. cotton
 - Paper
@@ -38,7 +38,9 @@ These materials are safe, but do not engrave or cut well.
 
 ## Unsafe materials
 
-- ABS plastic
+- Fake leather
+- Vinyl
+- ABS plastic, for example LEGO
 - Carbon fiber
 - Fiberglass
 - HDPE plastic
@@ -46,6 +48,8 @@ These materials are safe, but do not engrave or cut well.
 - Polypropylene foam
 - Polystyrene foam
 - PVC plastic
+- Epoxy
+- Cyano acrylate, Super glue
 
 ## Tips
 
