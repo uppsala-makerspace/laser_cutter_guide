@@ -49,7 +49,7 @@ These materials are safe, but do not engrave or cut well.
 - Polystyrene foam
 - PVC plastic
 - Epoxy
-- Cyano acrylate, Super glue
+- Cyano-acrylate, Super glue
 
 ## Tips
 
