@@ -13,3 +13,4 @@ Picture |Certified operator name|Certified by|Certification date
 `[TODO]`|?Angela                |?Lars       |?
 `[TODO]`|?Alfred                |?Lars       |?
 `[TODO]`|?Hilding               |?Lars       |?
+`[TODO]`|?Adam                  |?Lars       |?
