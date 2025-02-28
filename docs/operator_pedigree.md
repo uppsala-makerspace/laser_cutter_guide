@@ -8,8 +8,11 @@ flowchart TD
   Angela
   Richel
   Hilding
+  Adam
 
   Lars --> Richel
   Lars --> Angela
   Lars --> Hilding
+  Lars --> Adam
+  Lars --> Alfred
 ```
