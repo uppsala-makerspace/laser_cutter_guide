@@ -65,4 +65,4 @@ How it looks                                                   |Description
 ![Air goes to the fume hood](air_to_fume_hood_to_fume_hood.jpg)|Air goes to the fume hood
 ![Air goes to the laser](air_to_fume_hood_to_laser.jpg)        |Air goes to the laser
 
-Change the slider on the fumehood so that the air goes to the laser cutter.
+Change the slider to shut off the air to the fumehood, then more air gets sucked out of the laser.
