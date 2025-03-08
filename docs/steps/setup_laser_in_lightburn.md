@@ -20,7 +20,7 @@ To setup the laser in LightBurn:
 In LightBurn, click at the combo box right of 'Devices'.
 It will probably say `COM1` or `COM4` or `COM6`.
 
-![Pick a COM port here](lightburn_pick_com_port.png)
+![Pick a COM port here](lightburn_pick_com_port_annotated.png)
 
 > Pick a COM port here
 
