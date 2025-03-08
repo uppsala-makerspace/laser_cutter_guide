@@ -38,12 +38,8 @@ Press the button of the right duration on the ventilation timer:
 - 15M: 15 minutes
 - 2H: 2 hours
 
-
-
 Now the ventilation timer is on and you will see a blue LED
 light up.
-
-
 
 You should hear a noise start.
 This is a fan that will suck out the air from the laser cutter's
