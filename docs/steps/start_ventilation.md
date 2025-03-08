@@ -40,7 +40,7 @@ Press the button of the right duration on the ventilation timer:
 
 
 
-Now the ventilation timer is on and you will a blue LED
+Now the ventilation timer is on and you will see a blue LED
 light up.
 
 
