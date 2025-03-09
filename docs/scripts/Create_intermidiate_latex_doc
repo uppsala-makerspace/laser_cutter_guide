@@ -1,1 +1,0 @@
-pandoc README.md -s -o intermidiate_latex_doc_for_debug.tex
