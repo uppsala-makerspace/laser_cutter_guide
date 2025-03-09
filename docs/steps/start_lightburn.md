@@ -7,7 +7,7 @@ there is a LightBurn icon at the left side of the desktop.
 
 Double-click the LightBurn icon.
 
-![Double-click the LightBurn icon](desktop_of_laser_cutter_computer_pointer_at_lightburn_local.png)
+![Double-click the LightBurn icon](desktop_of_laser_cutter_computer_pointer_at_lightburn_local.png){.inline}
 
 Now LightBurn starts.
 
