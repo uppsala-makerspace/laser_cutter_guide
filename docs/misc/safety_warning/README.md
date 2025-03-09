@@ -1,4 +1,4 @@
-# Warning
+ # Warning
 ![Warning](warning_laser_128_x_128.png)
 
 **The laser can blind you and/or start a fire if used improperly.**
