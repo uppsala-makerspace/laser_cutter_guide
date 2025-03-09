@@ -29,7 +29,7 @@ until a connection is established.
 
 Select `COM1`.
 
-![Select `COM1`](lightburn_com1.png)
+![Select `COM1`](lightburn_com1_cropped.png)
 
 > Select `COM1`
 
@@ -40,7 +40,7 @@ continues.
 
 If The Dance needs to be continued, click `COM4`
 
-![Select `COM4`](lightburn_com4.png)
+![Select `COM4`](lightburn_com4_cropped.png)
 
 > Select `COM4`
 
@@ -51,7 +51,7 @@ continues.
 
 If The Dance needs to be continued, click `COM6`
 
-![Select `COM6`](lightburn_com6.png)
+![Select `COM6`](lightburn_com6_cropped.png)
 
 > Select `COM6`
 
