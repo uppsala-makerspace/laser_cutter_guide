@@ -1,5 +1,5 @@
 # Warning
-
+![Warning(warning_laser_128_x_128.png)]
 ![Warning](warning_laser_28_x_28.png) **The laser can blind you and/or start a fire if used improperly.**
 
 1. The coloured plastic does not prevent harm from the laser.
