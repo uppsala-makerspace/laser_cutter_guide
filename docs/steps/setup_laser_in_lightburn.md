@@ -75,3 +75,5 @@ Press the Home button to make the laser orient itself.
 
 The laser will move into the front left corner.
 
+\pagebreak
+
