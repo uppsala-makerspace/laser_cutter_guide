@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install pdfunite
-        run: sudo apt-get install pdfunite
+        run: sudo apt-get install poppler-utils
 
       - name: Install bookletimposer
         run: sudo apt-get install bookletimposer
