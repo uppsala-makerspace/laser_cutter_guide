@@ -8,4 +8,4 @@ tags:
 
 # Close enclosure
 
-Close the enclosure.
+Close the enclosure.  
