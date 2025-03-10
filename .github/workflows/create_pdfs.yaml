@@ -17,12 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install pdfunite
-        run: sudo apt-get install poppler-utils
-
-      - name: Install bookletimposer
-        run: sudo apt-get install bookletimposer
-
       - name: See PDFs are still there
         run: ls docs/pdfs/*.pdf
 
@@ -67,6 +61,12 @@ jobs:
       - name: Install mkdocs2md
         run: remotes::install_github("richelbilderbeek/mkdocs2md")
         shell: Rscript {0}
+
+      - name: Install pdfunite
+        run: sudo apt-get install poppler-utils
+
+      - name: Install bookletimposer
+        run: sudo apt-get install bookletimposer
 
       - name: Create PDFs
         run: |
