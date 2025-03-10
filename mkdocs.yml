@@ -7,7 +7,7 @@ nav:
   - Home: index.md
   - Procedure:
     - Overview: steps/README.md
-    - Safety Warning: misc/safety_warning/readme.md
+    - Safety Warning: misc/safety_warning/README.md
     - Start ventilation: steps/start_ventilation.md
     - Power on the laser cutter: steps/power_on_laser_cutter.md
     - Start computer: steps/start_computer.md
@@ -35,7 +35,8 @@ nav:
     - 8. Your first cut as an operator: lessons/8_your_first_cut_as_operator.md
     - 9. Certication: lessons/9_certification.md
   - Misc:
-    - Foreword: misc/foreword/readme.md
+    - Foreword: misc/foreword/README.md
+    - Safety Warning: misc/safety_warning/README.md
     - Certified operators: certified_operators.md
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
