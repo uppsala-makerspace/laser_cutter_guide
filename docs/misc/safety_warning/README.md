@@ -1,6 +1,4 @@
-# ![Warning](warning_laser.svg)Warning
-
-
+# Warning
 
 ![Warning](warning_laser_28_x_28.png)**The laser can blind you and/or start a fire if used improperly.**
 
