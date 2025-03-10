@@ -11,5 +11,3 @@ tags:
 Close the enclosure.
 
 \pagebreak
-
-
