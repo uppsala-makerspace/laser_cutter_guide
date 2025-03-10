@@ -2,7 +2,7 @@
 tags:
   - certified
   - operators
-  - predigree
+  - pedigree
 ---
 
 # Certified operators
