@@ -62,3 +62,6 @@ Place the spacer back in its original spot
 ![Place the spacer back in its proper place](putting_back_the_spacer.jpg)
 
 > Place the spacer back in its proper place
+
+\pagebreak
+
