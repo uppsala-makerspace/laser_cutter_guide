@@ -54,6 +54,10 @@ cat ../steps/start_lightburn.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
+cat ../steps/setup_laser_in_lightburn.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
+
 cat ../steps/get_material.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
@@ -63,10 +67,6 @@ cat ../steps/position_material.md >> $build_folder/README.md
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
 cat ../steps/setup_laser_physically.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/setup_laser_in_lightburn.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
