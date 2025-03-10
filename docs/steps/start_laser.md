@@ -90,3 +90,5 @@ If a fire starts or someone says 'Stop', click on stop. Laser is safe after stop
 ### Step 9: Say 'Laser is off'
 
 Say 'Laser is off'. You can remove your hand from the casing
+
+\pagebreak
