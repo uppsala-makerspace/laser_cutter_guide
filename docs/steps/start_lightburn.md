@@ -16,3 +16,5 @@ This is how the first screen of LightBurn looks like:
 ![First screen of LightBurn](lightburn_first_screen_50.png){width=25%}
 
 Well done!
+
+\pagebreak
