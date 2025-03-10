@@ -74,3 +74,4 @@ to see the contour of where the laser will cut:
 Align the material with where the laser cuts, either by
 moving the material or by moving the image in LightBurn or both.
 
+\pagebreak
