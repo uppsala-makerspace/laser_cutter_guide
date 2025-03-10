@@ -20,3 +20,5 @@ Write the password in the rectangle and press enter.
 ![Write the password here and press enter](login_screen_no_password_50.png)
 
 You have now started the computer!
+
+\pagebreak
