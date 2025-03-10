@@ -45,6 +45,8 @@ You should hear a noise start.
 This is a fan that will suck out the air from the laser cutter's
 enclosure.
 
+Note: if the ventilation is already on, dont turn it off after using the laser.
+
 ## Block the fume food
 
 In the same room as the laser,
