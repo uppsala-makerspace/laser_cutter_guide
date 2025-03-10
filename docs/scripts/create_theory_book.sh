@@ -38,10 +38,6 @@ cat ../misc/safety_warning/README.md >> $build_folder/README.md
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
 
-cat ../steps/get_material.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
 cat ../steps/start_ventilation.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
@@ -55,6 +51,10 @@ cat ../steps/start_computer.md >> $build_folder/README.md
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
 cat ../steps/start_lightburn.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
+
+cat ../steps/get_material.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
