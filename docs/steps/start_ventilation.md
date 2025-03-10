@@ -62,3 +62,5 @@ How it looks                                                   |Description
 ![Air goes to the laser](air_to_fume_hood_to_laser_annotated.jpg)        |Air goes to the laser
 
 Change the slider to shut off the air to the fumehood, then more air gets sucked out of the laser.
+
+\pagebreak
