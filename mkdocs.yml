@@ -7,7 +7,7 @@ nav:
   - Home: index.md
   - Procedure:
     - Overview: steps/README.md
-    - Safety Warning: misc/safety_warning/README.md
+    - Safety warning: misc/safety_warning/README.md
     - Start ventilation: steps/start_ventilation.md
     - Power on the laser cutter: steps/power_on_laser_cutter.md
     - Start computer: steps/start_computer.md
