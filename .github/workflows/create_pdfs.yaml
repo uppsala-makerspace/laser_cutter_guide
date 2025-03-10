@@ -17,6 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install pdfunite
+        run: sudo apt-get install pdfunite
+
+      - name: Install bookletimposer
+        run: sudo apt-get install bookletimposer
+
       - name: See PDFs are still there
         run: ls docs/pdfs/*.pdf
 
