@@ -7,14 +7,15 @@ nav:
   - Home: index.md
   - Procedure:
     - Overview: steps/README.md
-    - Get material: steps/get_material.md
+    - Safety warning: misc/safety_warning/README.md
     - Start ventilation: steps/start_ventilation.md
     - Power on the laser cutter: steps/power_on_laser_cutter.md
     - Start computer: steps/start_computer.md
     - Start LightBurn: steps/start_lightburn.md
-    - Position material: steps/position_material.md
-    - Setup laser physically: steps/setup_laser_physically.md
     - Setup laser in LightBurn: steps/setup_laser_in_lightburn.md
+    - Get material: steps/get_material.md
+    - Position material: steps/position_material.md
+    - Setup laser physically: steps/setup_laser_physically.md 
     - Load or create an image: load_image.md
     - Setup LightBurn: steps/setup_lightburn.md
     - Close enclosure: steps/close_enclosure.md
@@ -34,6 +35,8 @@ nav:
     - 8. Your first cut as an operator: lessons/8_your_first_cut_as_operator.md
     - 9. Certication: lessons/9_certification.md
   - Misc:
+    - Foreword: misc/foreword/README.md
+    - Safety Warning: misc/safety_warning/README.md
     - Certified operators: certified_operators.md
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
