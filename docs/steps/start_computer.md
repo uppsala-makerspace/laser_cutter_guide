@@ -21,4 +21,4 @@ Write the password in the rectangle and press enter.
 
 You have now started the computer!
 
-\pagebreak
+\newpage
