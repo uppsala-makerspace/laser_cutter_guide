@@ -1,4 +1,3 @@
-Lightburn
 LightBurn
 lightburn
 config
