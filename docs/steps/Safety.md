@@ -2,6 +2,6 @@
 
 Eye safety  
 
-Fire safety 
+Fire safety  
 
-Pic of fire extinguishers
+Pic of fire extinguishers  
