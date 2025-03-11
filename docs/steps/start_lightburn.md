@@ -1,3 +1,5 @@
+\newpage
+
 # Start LightBurn
 
 At the desktop of the computer next to the laser,
