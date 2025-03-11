@@ -23,7 +23,6 @@ yml
 Bilderbeek
 der
 jpg
-LightBurn
 Rauta
 Richèl
 tooltip
@@ -51,4 +50,5 @@ ODT
 pagebreak
 Hilding
 Cyanoacrylate
+newpage
 
