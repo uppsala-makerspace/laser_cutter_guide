@@ -1,9 +1,10 @@
-#Turn everthing off
+# Turn everthing off
 
 To turn everthing off you need to
-Turn off laser
-Turn off computer
-Turn off ventilation
+
+-Turn off laser
+-Turn off computer
+-Turn off ventilation
 
 ## Turn off laser
 
