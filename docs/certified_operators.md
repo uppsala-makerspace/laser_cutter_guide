@@ -28,12 +28,18 @@ flowchart TD
   Lars --> Hilding
   Lars --> Adam
   Lars --> Alfred
+
+  Adam --> |WIP| Elis
+  Adam --> |WIP| Diesel
+  Angela --> |WIP| Mats
+  Angela --> |WIP| Solveigh
+
 ```
 
 Picture |Certified operator name|Certified by|Certification date
 --------|-----------------------|------------|------------------
-`[TODO]`|?Angela                |?Lars       |?
-`[TODO]`|?Alfred                |?Lars       |?
-`[TODO]`|?Hilding               |?Lars       |?
-`[TODO]`|?Adam                  |?Lars       |?
+`[TODO]`|Angela                |Lars         |?
+`[TODO]`|Alfred                |Lars         |?
+`[TODO]`|Hilding               |Lars         |?
+`[TODO]`|Adam                  |Lars         |?
 
