@@ -1,6 +1,6 @@
-# Turn everthing off
+# Turn everything off
 
-To turn everthing off you need to
+To turn everything off you need to
 
 -Turn off laser
 -Turn off computer
