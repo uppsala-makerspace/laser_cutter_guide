@@ -86,15 +86,7 @@ cat ../steps/start_laser.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/turn_off_laser.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/turn_off_computer.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/turn_off_ventilation.md >> $build_folder/README.md
+cat ../steps/turn_off_everything.md >> $build_folder/README.md
 
 Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md")'
 
