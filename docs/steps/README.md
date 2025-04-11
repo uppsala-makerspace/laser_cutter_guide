@@ -24,10 +24,8 @@ flowchart TD
   setup_lightburn[Setup LightBurn]
   close_enclosure[Close enclosure]
   start_laser[Start laser]
-  turn_off_laser[Turn off laser]
-  turn_off_computer[Turn off computer]
-  turn_off_ventilation[Turn off ventilation]
-    
+  turn_off_everything[Turn off everything]
+
   start_computer --> start_lightburn
   get_material --> position_material
   position_material --> setup_laser_physically
@@ -40,9 +38,8 @@ flowchart TD
   setup_lightburn --> close_enclosure
   start_ventilation --> start_laser
   close_enclosure --> start_laser
-  start_laser --> turn_off_laser
-  turn_off_laser --> turn_off_computer
-  turn_off_laser --> turn_off_ventilation 
+  start_laser --> turn_off_everything
+
 ```
 
 These are the steps:
@@ -59,6 +56,5 @@ These are the steps:
 - [Setup LightBurn](setup_lightburn.md)
 - [Close enclosure](close_enclosure.md)
 - [Start laser](start_laser.md)
-- [Turn off laser](turn_off_laser.md)
-- [Turn off computer](turn_off_computer.md)
-- [Turn off ventilation](turn_off_ventilation.md)
+- [Turn off everything](turn_off_everything.md)
+
