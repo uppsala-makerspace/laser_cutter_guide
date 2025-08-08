@@ -35,17 +35,18 @@ nav:
     - 8. Your first cut as an operator: lessons/8_your_first_cut_as_operator.md
     - 9. Certication: lessons/9_certification.md
   - Misc:
-    - Foreword: misc/foreword/README.md
-    - Safety Warning: misc/safety_warning/README.md
     - Certified operators: certified_operators.md
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
     - Contributors: contributors.md
-    - Lesson card: lesson_card/README.md
-    - Frequently Asked Questions: faq.md
+    - Foreword: misc/foreword/README.md
+    - Frequently asked questions: faq.md
     - Gallery: gallery/README.md
-    - PDFs: pdfs/README.md
+    - Lesson card: lesson_card/README.md
     - License: LICENSE.md
+    - PDFs: pdfs/README.md
+    - Role of the adult supervisor: role_of_adult.md
+    - Safety warning: misc/safety_warning/README.md
     - Scripts: scripts/README.md
     - Troubleshooting: troubleshooting/README.md
 
