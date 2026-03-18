@@ -9,9 +9,9 @@ This is a book about using the laser cutter at the Uppsala Makerspace.
 
 ## About this book
 
-This book has a CC-BY-NC-SA licence.
+This book has a CC-BY-SA licence.
 
-![Licence for this book](CC-BY-NC-SA.png)
+![Licence for this book](CC-BY-SA.png)
 
 (C) Lars van der Nat and Richèl Bilderbeek
 
