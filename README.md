@@ -2,11 +2,11 @@
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
-[![Check links](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_links.yaml)
-[![Check Markdown](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_markdown.yaml)
-[![Check spelling](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/check_spelling.yaml)
-[![Create the PDFs](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_pdfs.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_pdfs.yaml)
-[![Create website](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/laser_cutter_guide/actions/workflows/create_website.yaml)
+[![Check links](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_links.yaml)
+[![Check Markdown](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_markdown.yaml)
+[![Check spelling](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_spelling.yaml)
+[![Create the PDFs](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_pdfs.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_pdfs.yaml)
+[![Create website](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_website.yaml)
 
 <!-- markdownlint-enable MD013 -->
 
@@ -22,10 +22,10 @@ Manual for using the Uppsala Makerspace laser cutter.
 
 **When in operation do not look directly at the light without the appropriate safety goggles**.
 
-- [Human friendly website](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+- [Human friendly website](https://richelbilderbeek.github.io/laser_cutter_guide/)
 - [Printer friendly PDFs](docs/pdfs/README.md)
 
-[Contributions are welcome](https://uppsala-makerspace.github.io/laser_cutter_guide/CONTRIBUTING/)!
+[Contributions are welcome](https://richelbilderbeek.github.io/laser_cutter_guide/CONTRIBUTING/)!
 
 ## Files used by continuous integration scripts
 

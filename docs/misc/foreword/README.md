@@ -18,6 +18,6 @@ This book has a CC-BY-SA licence.
 You can do whatever you like with this book,
 as long as you give proper credit to us
 and/or mention the website
-[https://github.com/uppsala-makerspace/laser_cutter_guide](https://github.com/uppsala-makerspace/laser_cutter_guide).
+[https://github.com/richelbilderbeek/laser_cutter_guide](https://github.com/richelbilderbeek/laser_cutter_guide).
 
 This guide will always be free (as in beer) and free (as in freedom).

@@ -12,7 +12,7 @@ Suggestions are welcomed that help achieve this goal,
 with a preference to accept suggestions.
 
 - For questions:
-    - you can [create an issue](https://github.com/uppsala-makerspace/laser_cutter_guide/issues)
+    - you can [create an issue](https://github.com/richelbilderbeek/laser_cutter_guide/issues)
     - contact the authors (Richèl Bilderbeek or Lars van der Nat) on Slack
     - contact the authors (`rjcbilderbeek@gmail.com` or Lars van der Nat) by email
 - For textual changes:
