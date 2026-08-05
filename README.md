@@ -7,6 +7,7 @@
 [![Check spelling](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/check_spelling.yaml)
 [![Create the PDFs](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_pdfs.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_pdfs.yaml)
 [![Create website](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/laser_cutter_guide/actions/workflows/create_website.yaml)
+[![DOI](https://zenodo.org/badge/915743554.svg)](https://doi.org/10.5281/zenodo.21810156)
 
 <!-- markdownlint-enable MD013 -->
 

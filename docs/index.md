@@ -7,3 +7,5 @@
 Manual for using the laser cutter
 
 - [Go to printer friendly PDFs](pdfs/README.md)
+
+[![DOI](https://zenodo.org/badge/915743554.svg)](https://doi.org/10.5281/zenodo.21810156)
